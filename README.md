@@ -7,20 +7,25 @@ The objective of this project is to build a logistic regression model to predict
 
 ## 📁 Files Included
 
+> All files are packaged inside the ZIP archive:  
+> **`Predicting_Employee_Retention_Umair_Birajdar.zip`**
+
 | File Name                                  | Description |
 |-------------------------------------------|-------------|
 | `Predicting_Employee_Retention_Starter.ipynb` | Final Jupyter notebook containing complete analysis, model building, evaluation, and visualization steps. |
 | `Predicting_Employee_Retention_Starter.pdf`   | Business-style report summarizing the methodology, results, and HR recommendations. |
-| `README.md` | This file – overview of project, instructions, and details. |
+| `README.md`                                   | This file – overview of project, instructions, and details. |
 
 ---
 
-## ⚙️ How to Run This Notebook
+## ⚙️ How to Run This Project
 
-1. Clone or download this repository.
-2. Open the `.ipynb` file in Jupyter Notebook, VS Code (with Python extension), or Google Colab.
-3. Run all cells sequentially to reproduce results.
-4. The dataset used was preloaded as part of the assignment; no external files are required.
+1. **Download the ZIP file** from this repository:  
+   [`Predicting_Employee_Retention_Umair_Birajdar.zip`](./Predicting_Employee_Retention_Umair_Birajdar.zip)
+2. Extract the contents to your local machine.
+3. Open the `.ipynb` file in **Jupyter Notebook**, **VS Code**, or **Google Colab**.
+4. Run all cells sequentially to reproduce results.
+5. No external dataset is needed — all data was provided as part of the assignment.
 
 ---
 
